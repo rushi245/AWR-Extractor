@@ -1,0 +1,7 @@
+{
+	"server"       : "52.26.73.165",
+	"port"         : "1521",
+	"databasename" : "XE",
+	"username"     : "SYSTEM",
+	"password"     : "abcd123",
+}
